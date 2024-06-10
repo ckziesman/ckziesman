@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ckziesman
 - 👀 I’m interested in web development, game creation, and design.
-- 🌱 I’m currently learning more advance web development.
+- 🌱 I’m currently learning about API intergration
 - 💞️ I’m looking to collaborate on game projects.
 - 📫 How to reach me: cassandraziesman @gmail.com
 
